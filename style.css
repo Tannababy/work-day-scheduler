@@ -31,6 +31,7 @@ header {
   border-radius: 15px;
 }
 
+
 .row {
   white-space: pre-wrap;
   height: 80px;
@@ -40,6 +41,7 @@ header {
   background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
+  float: left;
 }
 
 .past {
@@ -63,6 +65,7 @@ header {
   border-bottom-right-radius: 15px;
   background-color: #06aed5;
   color: white;
+  float:right
 }
 
 .saveBtn i:hover {

@@ -6,12 +6,15 @@ $(document).ready(function () {
   // Generate time blocks
   for (let hour = 1; hour <= 12; hour++) {
     $(".container").append(`
+    
           <div class="time-block" id="hour-${hour}">
-              <p class="hour">${hour}</p>
-              <textarea name="" class="description" cols="30" rows="10"></textarea>
-              <button class="saveBtn"><i class="fas fa-save"></i></button>
+                 <p class="hour">${hour}</p>
+                 <textarea name=""cols="30" rows="10"></textarea>
+                 <button class="saveBtn"><i class="fas fa-save"></i></button>
+              </div>
           </div>
-      `);
+      
+        `);
   }
 
   // Function to update colours based on past, present and future
