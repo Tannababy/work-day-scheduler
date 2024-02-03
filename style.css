@@ -1,7 +1,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   font-size: 16px;
-  line-height: 1;
+  line-height: 2;
 }
 
 textarea {
@@ -34,7 +34,6 @@ header {
 .row {
   white-space: pre-wrap;
   height: 80px;
-  border-top: 1px solid white;
 }
 
 .hour {
