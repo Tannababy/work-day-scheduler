@@ -26,8 +26,8 @@ As an employee with a busy schedule, I want to add important events to a daily p
 
 ## Usage
 
-Visit the deployed application - https://tannababy.github.io/work-day-scheduler/
-Follow the on-screen instructions to add, edit, and save events for each hour.
+- Visit the deployed application - https://tannababy.github.io/work-day-scheduler/
+- Follow the on-screen instructions to add, edit, and save events for each hour.
 
 ## Technologies Used
 
